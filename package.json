@@ -1,0 +1,13 @@
+{
+  "name": "wedding-invite-tests",
+  "version": "1.0.0",
+  "description": "Tests for the Priya & Melwin Wedding Invitation",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}
